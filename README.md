@@ -39,10 +39,6 @@ npm start //to start the server after installation of dependancies
 
 By default, the frontend will run on localhost:3000.
 
-### Database Setup
-With Postgres running, restore the database using the trivia.psql file provided. From the backend folder in terminal run:
-
-psql trivia < trivia.psql
 
 ## API Reference
 ### Getting started with API
